@@ -1,0 +1,9 @@
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.csproj.AssemblyReference.cache
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.AssemblyInfoInputs.cache
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.AssemblyInfo.cs
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.csproj.CoreCompileInputs.cache
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.RazorAssemblyInfo.cache
+C:\Users\kapoo\Documents\MVC-ASP.NET\CRUD_APP_STUDENT\obj\Debug\net9.0\CRUD_APP.RazorAssemblyInfo.cs
